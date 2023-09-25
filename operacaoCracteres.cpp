@@ -28,8 +28,8 @@ contrário. Use o operador condicional (?) com esta finalidade.
 Imprima o valor de ch3 na tela;*/
 
 #include <iostream>
-#include <iostream>
-#include <cctype> // Para as funções isupper, islower e isdigit
+#include <string>
+#include <cctype>
 
 using namespace std; // Para simplificar o uso do namespace std
 
